@@ -1,8 +1,8 @@
-# CRUD Laravel + Vue + Inertia + ChartJS + DataTables    (LaraVueCompany)
+# CRUD Laravel + Vue + Inertia + ChartJS + DataTables 
 
 ## Doble CRUD con login en Laravel 10 y Vue3
 
-Doble CRUD con relaciones entre tablas, se usa el sistema de autenticación Laravel Breeze. Se utiliza <b>Laravel 10</b> y <b>Vue 3</b> con <b>Inertia.js</b>.
+Doble CRUD <b>Laravel 10</b> y <b>Vue 3</b>
 
 - Crud tradicional para <b>Departamentos</b>
 
@@ -51,7 +51,3 @@ Instalación:
 - phone
 - department_id
 
-
-## Video de explicación
-
-Si quieres ver el video en donde se explica el ejercicio paso a paso  [te comparto el siguiente enlace](https://youtu.be/sQwDLrleegA)
